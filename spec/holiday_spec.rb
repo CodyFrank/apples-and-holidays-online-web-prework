@@ -139,7 +139,6 @@ TEXT
      #end
 
   end
-end
   # Question 7
   # Write a method to collect all holidays with BBQ
   describe "#all_holidays_with_bbq" do
