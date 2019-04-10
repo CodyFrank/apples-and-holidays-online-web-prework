@@ -78,6 +78,7 @@ def all_supplies_in_holidays(holiday_hash)
         item_phrase << "#{item_str}, "
       end
       phrase << "#{item_phrase}\n"
+      item_phrase = ""
     end
   end
   puts phrase
